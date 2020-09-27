@@ -28,7 +28,7 @@ twitter_username: viriditycapital
 github_username:  viriditycapital
 
 # Build settings
-theme: jekyll-theme-clean-blog
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 plugins:
   - jekyll-feed
 
