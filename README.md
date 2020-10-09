@@ -2,6 +2,12 @@
 
 Theme site.
 
+## To run
+
+```
+bundle exec jekyll serve
+```
+
 ## TODO
 
 - Navbar: Get rid of contact, and merge with about.

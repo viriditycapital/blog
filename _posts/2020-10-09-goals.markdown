@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Projects"
+date:   2020-10-09 05:42:46 -0400
+categories: jekyll update
+---
+
+At Viridity, we engage in a variety of finance, stats, math, and cs topics,
+where we produce tools, visualizations, and general research in these
+categories.
+
+This post will outline some of our existing projects, along with future
+planned work.
+
+We also have a design team, and we have an
+[Etsy Store](https://www.etsy.com/shop/viriditydesigns/)
+where we sell our merch.
+
+## Finance
+
+- [`marco`](https://mikinty.github.io/marco): Technical analysis for crypto. Plan is to automatically perform real-time TA.
+- [`theta`](https://viriditycapital.github.io/theta): Tool to help options sellers manage risk. Plan is to make more visuals regarding risk and options selling. Would also be nice to expand the tool to be able to work with spreads.
+- [Trading Interview Questions](https://github.com/mikinty/Trading-Interview-Questions): Interview prep for aspiring traders/quants. Plans are to create interactive games on the browser to practice, and also more interview questions.
+- [Wealth Management](https://github.com/mikinty/Wealth-Management): How to manage your money, with varying degrees of risk and return. **WIP**
+
+
+## Random
+
+- [Rice Purity Test](https://viriditycapital.github.io/rpt): Remake of the classic RPT, with weighted scoring.
+- [`drypto`](https://viriditycapital.github.io/drypto): Crypto-themed drinks. **WIP**
+- [Pornstar Density Map](https://viriditycapital.github.io/global-stars/): See where your favorite pornstars are from.
+
+As always, nothing from Viridity Capital should be taken as financial advice.
