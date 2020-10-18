@@ -13,7 +13,7 @@ bundle exec jekyll serve
 - Navbar: Get rid of contact, and merge with about.
 - Navbar: Add a link to our etsy designs
 - Contact links: Add our Pinterest
--
+
 ## Post Ideas
 
 - Talk about trading interviews
