@@ -20,7 +20,6 @@ bundle exec jekyll serve
 - Talk about potential jobs for techbros, so like trading, hardware, consulting, software etc
 - Fast food, how to promote better things, big chicken is bad
 - Financial Literacy
-- Luxury brands, discounts
 - Essay about things we did as kids, and why
   - Went on YouTube to find "hacks" for video games and Maplestory accounts
 - Dating for cs majors
