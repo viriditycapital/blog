@@ -5,7 +5,7 @@ date:   2020-10-18 00:35:00 -0400
 categories: jekyll update
 ---
 
-Gucci belt -- 40, Prada clutch -- 200, Burberry Trench -- 700. Wrong?
+Gucci belt -- $40, Prada clutch -- $200, Burberry Trench -- $700. Wrong?
 Well...kinda. These are real item prices, but there's a catch for how they
 became so cheap. Normally, even the cheapest item at a luxury shop, usually a
 cardholder, will run you $300. For many of us, buying luxury can make
